@@ -33,7 +33,7 @@ This project is a Streamlit web application for performing Named Entity Recognit
    - Click the "Perform Visualization" button to trigger the NER analysis or generate a word cloud.
    
 ### Contributing
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests on [GitHub](https://github.com/Muhammedashfaqullasharif/named-entity-recognition).
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests on [GitHub](https://github.com/Muhammedashfaqullasharif/Techsaksham_project).
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
